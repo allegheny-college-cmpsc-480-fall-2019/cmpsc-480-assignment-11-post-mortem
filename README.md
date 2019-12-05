@@ -1,4 +1,4 @@
-# Assignment #10: Software Innovation 1, Allegheny College, Fall 2019
+# Assignment #11: Software Innovation 1, Allegheny College, Fall 2019
 
 * [Assignment Sheet](CMPSC%20480%20-%20Assignment%2011.pdf)
 
